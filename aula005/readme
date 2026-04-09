@@ -1,0 +1,13 @@
+//Comando feitos no terminal do node
+
+Welcome to Node.js v24.14.1.
+Type ".help" for more information.
+> var n = 200
+undefined
+> typeof n
+'number'
+> n = "Google"
+'Google'
+> typeof n
+'string'
+//
